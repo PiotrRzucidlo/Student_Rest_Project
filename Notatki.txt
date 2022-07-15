@@ -1,0 +1,1 @@
+testrunner.bat -sTS_Divide -r -a -j -J -fC:\Users\przucidlo\Desktop\Result C:\Users\przucidlo\Desktop\TestyAPI\calculator-soapui-project.xml
